@@ -1,5 +1,5 @@
 # login-screen
-Tela inicial de login => usuario : admin ou joao => senha : admin ou 1234
+# Tela inicial de login => usuario : admin ou joao => senha : admin ou 1234
 
 from tkinter import *
 from tkinter import Tk, ttk
